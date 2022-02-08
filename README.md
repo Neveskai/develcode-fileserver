@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Node Static HTTP Servers
 ========================
 
@@ -160,6 +161,9 @@ MIT License (Expat). See [LICENSE.md](LICENSE.md) for details.
 [stackoverflow-url]: https://stackoverflow.com/users/613198/rsp
 [stackexchange-url]: https://stackexchange.com/users/303952/rsp
 [stackexchange-img]: https://stackexchange.com/users/flair/303952.png
+=======
+# develcode-fileserver
+>>>>>>> 656322fd94b6b4cd2d937765278c4eb16e2167c9
 =======
 # develcode-fileserver
 >>>>>>> 656322fd94b6b4cd2d937765278c4eb16e2167c9
